@@ -1,0 +1,4 @@
+#Sun May 09 21:15:14 IST 2021
+base.0=P\:\\workspace\\Sign_language_camer\\Sign-Language-Translator\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

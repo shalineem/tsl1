@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sign lang</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="new_message_notification_title_template">Traffic Detected </string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="new_message_notification_placeholder_text_template">Traffic detected on your root. Green line shows Slow traffic and red line shows heavy traffic.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+
+    <string name="knowmore">Sign Dictionary! Select one of these.</string>
+    <string name="Alphabets">Alphabets</string>
+    <string name="Numbers">Numbers</string>
+    <string name="fuw">Frequently used</string>
+    <string name="exit_application">Exit Application?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="speak">Speak..</string>
+    <string name="message_processing">Processing text...please wait</string>
+    <string name="message_empty">Enter some text in the search box!!</string>
+    <string name="title_activity_sign_language_photo">SignLanguagePhotoActivity</string>
+    <string name="IndianSignAlgorithm">http://www.lifeprint.com/asl101/pages-signs/</string>
+    <string name="dataset">http://www.lifeprint.com/asl101/signjpegs/numbers/number0</string>
+    <string name="dataset1">http://www.lifeprint.com/asl101/fingerspelling/abc-gifs/</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Detect Sign</string>
+</resources>

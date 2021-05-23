@@ -1,0 +1,328 @@
+-- Merging decision tree log ---
+manifest
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:2:1-96:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\96c4626d17be9b93bf739a292e5cf065\design-26.0.0-alpha1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\ddf840b9f4188ec39e7b984ec34761aa\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\7306b4342bb3fd71fc45aa65088ed6ca\transition-26.0.0-alpha1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\d9eac598c6a7561b3f5f5d2207a83e30\support-v4-26.0.0-alpha1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\30d9c3a208156a3ee5fd018bf62f24a2\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\20f593f48f338aa03ff8f0217424f22f\cardview-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:2:1-24:12
+MERGED from [com.camerakit:jpegkit:0.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\fa5ebebf4431aca10d4b29ff7600791f\jpegkit-0.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9797981285bdc4ac4f615260917df34f\tensorflow-lite-2.4.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\a9eb1a58d08d706ee88484d0b208b458\recyclerview-v7-26.0.0-alpha1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9410d32a855800cda431dd41c57a3d77\support-media-compat-26.0.0-alpha1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\c360d4379981d58300a9a84b35a0857c\exifinterface-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\3861ca69ae4e88a3dcea57b5918962b2\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\bfeb60eca7c4f14f67ff28d3de252327\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\920eea4d4b3407526fa80f4c64893383\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f01985b8288b5e36d1bcfdfd797b805a\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\8fa15df48499fcadf25e4a5d37ae5a58\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\c843eeefe88f5a12ad1c49d5aaa4e4f7\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\da3ba0a33d4353a332402cd549cb38b6\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+		INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+		INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+		INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:8:5-71
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:12:5-71
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:12:5-71
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:8:5-71
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.INTERNET
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:10:5-81
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:10:5-81
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:9:5-81
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:12:22-77
+application
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:14:5-94:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\96c4626d17be9b93bf739a292e5cf065\design-26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\96c4626d17be9b93bf739a292e5cf065\design-26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:25:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\7306b4342bb3fd71fc45aa65088ed6ca\transition-26.0.0-alpha1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\7306b4342bb3fd71fc45aa65088ed6ca\transition-26.0.0-alpha1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\d9eac598c6a7561b3f5f5d2207a83e30\support-v4-26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\d9eac598c6a7561b3f5f5d2207a83e30\support-v4-26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\30d9c3a208156a3ee5fd018bf62f24a2\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\30d9c3a208156a3ee5fd018bf62f24a2\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\20f593f48f338aa03ff8f0217424f22f\cardview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\20f593f48f338aa03ff8f0217424f22f\cardview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9797981285bdc4ac4f615260917df34f\tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9797981285bdc4ac4f615260917df34f\tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9410d32a855800cda431dd41c57a3d77\support-media-compat-26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9410d32a855800cda431dd41c57a3d77\support-media-compat-26.0.0-alpha1\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:16:9-38
+	android:allowBackup
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:18:9-56
+activity#com.sign.language.MainActivity
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:19:9-29:20
+	android:screenOrientation
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:21:13-63
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MainActivity+category:name:android.intent.category.DEFAULT
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MainActivity
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:25:25-74
+category#android.intent.category.DEFAULT
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:27:27-73
+activity#com.sign.language.FirstActivity
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:30:9-40:20
+	android:screenOrientation
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:31:13-42
+intent-filter#action:name:android.intent.action.FirstActivity+category:name:android.intent.category.DEFAULT
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.FirstActivity
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:36:25-75
+activity#com.sign.language.DisplayActivity
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:41:9-51:20
+	android:screenOrientation
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:44:13-45
+	android:configChanges
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:43:13-63
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:42:13-44
+intent-filter#action:name:android.intent.action.DisplayActivity+category:name:android.intent.category.DEFAULT
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.DisplayActivity
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:47:17-80
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:47:25-77
+activity#com.sign.language.SearchText
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:52:9-56:52
+	android:screenOrientation
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:55:13-45
+	android:configChanges
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:54:13-63
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:53:13-39
+activity#com.sign.language.RegistrationActivity
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:57:9-59:47
+	android:theme
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:58:13-49
+activity#com.sign.language.LoginActivity
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:60:9-68:20
+	android:theme
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:62:13-44
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:61:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:63:13-67:29
+action#android.intent.action.MAIN
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:64:25-66
+category#android.intent.category.LAUNCHER
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:66:17-77
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:66:27-74
+activity#com.sign.language.SplashScreen
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:69:9-59
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:69:19-47
+activity#com.sign.language.SelectActivity
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:70:9-74:63
+	android:screenOrientation
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:72:13-45
+	android:theme
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:74:13-51
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:71:13-43
+activity#com.sign.language.SignLanguagePhotoActivity
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:75:9-79:20
+	android:label
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:77:13-71
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:76:13-54
+activity#com.sign.language.TakePhotoSignLang
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:80:9-86:20
+	android:screenOrientation
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:82:13-45
+	android:theme
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:84:13-51
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:81:13-46
+activity#com.sign.language.Photo
+ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:87:9-93:20
+	android:screenOrientation
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:90:13-49
+	android:label
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:89:13-45
+	android:theme
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:91:13-51
+	android:name
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml:88:13-34
+uses-sdk
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\96c4626d17be9b93bf739a292e5cf065\design-26.0.0-alpha1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\96c4626d17be9b93bf739a292e5cf065\design-26.0.0-alpha1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\ddf840b9f4188ec39e7b984ec34761aa\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\ddf840b9f4188ec39e7b984ec34761aa\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\7306b4342bb3fd71fc45aa65088ed6ca\transition-26.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\7306b4342bb3fd71fc45aa65088ed6ca\transition-26.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\d9eac598c6a7561b3f5f5d2207a83e30\support-v4-26.0.0-alpha1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\d9eac598c6a7561b3f5f5d2207a83e30\support-v4-26.0.0-alpha1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\30d9c3a208156a3ee5fd018bf62f24a2\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\30d9c3a208156a3ee5fd018bf62f24a2\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\20f593f48f338aa03ff8f0217424f22f\cardview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\20f593f48f338aa03ff8f0217424f22f\cardview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:5:5-44
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:5:5-44
+MERGED from [com.camerakit:jpegkit:0.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\fa5ebebf4431aca10d4b29ff7600791f\jpegkit-0.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.camerakit:jpegkit:0.1.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\fa5ebebf4431aca10d4b29ff7600791f\jpegkit-0.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9797981285bdc4ac4f615260917df34f\tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9797981285bdc4ac4f615260917df34f\tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\a9eb1a58d08d706ee88484d0b208b458\recyclerview-v7-26.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\a9eb1a58d08d706ee88484d0b208b458\recyclerview-v7-26.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9410d32a855800cda431dd41c57a3d77\support-media-compat-26.0.0-alpha1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9410d32a855800cda431dd41c57a3d77\support-media-compat-26.0.0-alpha1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\c360d4379981d58300a9a84b35a0857c\exifinterface-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\c360d4379981d58300a9a84b35a0857c\exifinterface-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\3861ca69ae4e88a3dcea57b5918962b2\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\3861ca69ae4e88a3dcea57b5918962b2\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\bfeb60eca7c4f14f67ff28d3de252327\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\bfeb60eca7c4f14f67ff28d3de252327\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\920eea4d4b3407526fa80f4c64893383\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\920eea4d4b3407526fa80f4c64893383\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f01985b8288b5e36d1bcfdfd797b805a\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f01985b8288b5e36d1bcfdfd797b805a\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\8fa15df48499fcadf25e4a5d37ae5a58\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\8fa15df48499fcadf25e4a5d37ae5a58\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\c843eeefe88f5a12ad1c49d5aaa4e4f7\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\c843eeefe88f5a12ad1c49d5aaa4e4f7\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\da3ba0a33d4353a332402cd549cb38b6\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\da3ba0a33d4353a332402cd549cb38b6\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\96c4626d17be9b93bf739a292e5cf065\design-26.0.0-alpha1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+		INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+		ADDED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+		MERGED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+		INJECTED from P:\workspace\Sign_language_camer\Sign-Language-Translator\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\96c4626d17be9b93bf739a292e5cf065\design-26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\7306b4342bb3fd71fc45aa65088ed6ca\transition-26.0.0-alpha1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\7306b4342bb3fd71fc45aa65088ed6ca\transition-26.0.0-alpha1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\d9eac598c6a7561b3f5f5d2207a83e30\support-v4-26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\d9eac598c6a7561b3f5f5d2207a83e30\support-v4-26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\a9eb1a58d08d706ee88484d0b208b458\recyclerview-v7-26.0.0-alpha1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\a9eb1a58d08d706ee88484d0b208b458\recyclerview-v7-26.0.0-alpha1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9410d32a855800cda431dd41c57a3d77\support-media-compat-26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9410d32a855800cda431dd41c57a3d77\support-media-compat-26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\96c4626d17be9b93bf739a292e5cf065\design-26.0.0-alpha1\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\96c4626d17be9b93bf739a292e5cf065\design-26.0.0-alpha1\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.CAMERA
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:11:5-65
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:7:5-65
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:14:5-60
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:11:5-13:36
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:11:5-13:36
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:14:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:15:5-17:36
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:17:5-19:36
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:16:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:18:5-20:36
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:14:5-16:36
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:19:9-53
+uses-feature#android.hardware.microphone
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:21:5-23:36
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:20:5-22:36
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\f5025b46eb8bc6f24b82d7fe728ec9de\camerakit-1.0.0-beta3.11\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\shalinee\.gradle\caches\transforms-2\files-2.1\9c57d5a1c5b3e1f3aa80a889d8ff93fd\camerakit-0.13.1\AndroidManifest.xml:22:9-51

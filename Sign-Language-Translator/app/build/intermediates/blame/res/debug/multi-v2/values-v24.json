@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "P:\\workspace\\Sign_language_camer\\Sign-Language-Translator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shalinee\\.gradle\\caches\\transforms-2\\files-2.1\\ddf840b9f4188ec39e7b984ec34761aa\\appcompat-v7-27.0.2\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
